@@ -14,3 +14,4 @@ Next.js + Tailwind calculator app with keyboard support and in-memory history AP
 - `GET /api/history`
 - `POST /api/history` with `{ "expression": "1+2", "result": "3" }`
 - `DELETE /api/history`
+.
